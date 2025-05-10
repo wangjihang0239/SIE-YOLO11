@@ -1,6 +1,6 @@
 In this paper, open source datasets HRSID and SSDD are used in the research process.In this thesis, HRSID (High Resolution SAR Images Dataset) is a dataset for the tasks of ship detection, semantic segmentation, and instance segmentation in high-resolution synthetic aperture radar (SAR) images. This project is mainly used for research and development of deep learning based ship detection and segmentation techniques.The main programming language of the HRSID project is Python, which is suitable for data processing and deep learning model development using Python.SSDD (SAR Ship Detection Dataset) is a dataset dedicated to the task of ship detection and segmentation in Synthetic Aperture Radar (SAR) images. dataset for ship target detection. It was produced by the Department of Electrical and Information Engineering at the Naval Aerospace University to provide a standardized platform so that researchers can compare the performance of different algorithms under identical conditions. They are available for download at the address below:
 
-The HRSIFD dataset is available for download at:https:/gitcode.com/gh mirors/hr/HRSlD
+The HRSIFD dataset is available for download at:https://gitcode.com/gh mirors/hr/HRSlD
 
 The SSDD dataset is available for download at:https://gitcode.com/gh_mirrors/of/Official-SSDD/blob/main/README.md?utm_source=csdn_github_accelerator&isLogin=1
 
